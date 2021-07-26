@@ -12,4 +12,3 @@ Resultado da "Ocupação - CBO"foi alcançado através do tratamento dos dados e
 Resultado da "Cidade do óbito"foi alcançado através do tratamento dos dados e relacionamento 1 para * com base de dados do IBGE a respeito dos municípios. </br>
 Demais relacionamentos foram criados consultando os documentos e dicionários de dados disponíveis no arquivo "Estrutura_SIM_Anterior" na modalidade para download "Documentação".</p>
 
-2 - 
